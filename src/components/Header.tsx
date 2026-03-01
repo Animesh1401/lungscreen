@@ -13,7 +13,7 @@ const Header = () => {
             <Phone className="w-3.5 h-3.5" />
             <span>Emergency: 911 | Helpline: 1-800-LUNG-USA</span>
           </div>
-          <span className="hidden sm:block">AI-Powered Diagnostic Tool</span>
+          <span className="hidden sm:block">Pulmonary Diagnostic Tool</span>
         </div>
       </div>
 
@@ -25,7 +25,7 @@ const Header = () => {
           </div>
           <div>
             <h1 className="text-lg font-bold leading-tight" style={{ fontFamily: 'var(--font-heading)' }}>
-              LungScreen AI
+              LungScreen
             </h1>
             <p className="text-xs text-muted-foreground">Pulmonary Diagnostic Platform</p>
           </div>

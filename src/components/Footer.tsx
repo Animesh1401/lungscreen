@@ -5,7 +5,7 @@ const Footer = () => (
         <strong>Medical Disclaimer:</strong> This tool provides AI-assisted screening for educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
       </p>
       <p className="text-xs text-muted-foreground">
-        © {new Date().getFullYear()} LungScreen AI — Powered by Google Gemini. Information referenced from Mayo Clinic guidelines.
+        © {new Date().getFullYear()} LungScreen — Information referenced from Mayo Clinic guidelines.
       </p>
     </div>
   </footer>
