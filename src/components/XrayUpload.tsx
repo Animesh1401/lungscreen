@@ -68,11 +68,10 @@ const XrayUpload = () => {
             className="text-2xl md:text-3xl font-bold text-foreground mb-3"
             style={{ fontFamily: "var(--font-heading)" }}
           >
-            AI-Powered X-Ray Analysis
+            Upload Your X-Ray
           </h2>
           <p className="text-muted-foreground max-w-xl mx-auto">
-            Upload a chest X-ray image for AI-assisted lung cancer screening.
-            Our system uses Google Gemini to analyze radiographic patterns.
+            Upload a chest X-ray image for lung cancer screening and analysis.
           </p>
         </div>
 

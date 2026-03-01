@@ -13,7 +13,7 @@ const HeroSection = () => {
       <div className="relative medical-container py-16 md:py-24 text-center">
         <span className="inline-block px-4 py-1.5 rounded-full text-xs font-semibold tracking-wider uppercase mb-6"
           style={{ background: 'hsl(210, 65%, 28%, 0.3)', color: 'hsl(210, 60%, 75%)' }}>
-          AI-Assisted Screening
+          Diagnostic Screening
         </span>
         <h2 className="text-3xl md:text-5xl font-bold mb-4 leading-tight"
           style={{ fontFamily: 'var(--font-heading)', color: 'hsl(0, 0%, 96%)' }}>
@@ -21,7 +21,7 @@ const HeroSection = () => {
         </h2>
         <p className="text-lg md:text-xl max-w-2xl mx-auto mb-8"
           style={{ color: 'hsl(210, 15%, 70%)' }}>
-          Upload your chest X-ray for AI-powered analysis. Early detection can significantly improve treatment outcomes and survival rates.
+          Upload your chest X-ray for analysis. Early detection can significantly improve treatment outcomes and survival rates.
         </p>
         <a
           href="#detection"
